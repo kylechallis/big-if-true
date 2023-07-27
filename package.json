@@ -1,0 +1,24 @@
+{
+  "name": "big-if-true",
+  "version": "1.0.0",
+  "description": "Determine if big",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylechallis/big-if-true.git"
+  },
+  "keywords": [
+    "big",
+    "if",
+    "true"
+  ],
+  "author": "Kyle Challis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylechallis/big-if-true/issues"
+  },
+  "homepage": "https://github.com/kylechallis/big-if-true#readme"
+}
