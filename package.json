@@ -1,6 +1,6 @@
 {
   "name": "big-if-true",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determine if big",
   "main": "index.js",
   "scripts": {
